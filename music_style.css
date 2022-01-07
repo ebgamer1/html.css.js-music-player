@@ -74,6 +74,10 @@ body{
     margin: 0;
     right: 0cm;
     width: 7%;
+    z-index: 1;
+}
+.debug{
+    z-index: 2;
 }
 .mute_class{
    position: fixed; 
