@@ -83,7 +83,7 @@ audio.onended = function() {
 function debug(){  
   
   console.log(audio.duration);
-  alert(audio.volume)}
+  alert(file.value)}
   setInterval(
   function repeat(){
     
